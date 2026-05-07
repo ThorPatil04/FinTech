@@ -79,5 +79,5 @@ To run this project on your local machine:
 
 ## 👨‍💻 Author
 
-**Prasad Mahajan**
+**Saideep Patil**
 - Internship Project at Zaalima
